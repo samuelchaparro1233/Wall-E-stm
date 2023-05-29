@@ -1,4 +1,5 @@
 # Maquina de Estados para un Wall-E recolector de objetos reciclables que se mueve en un plano de 5x5 
+![imagen](https://github.com/samuelchaparro1233/Wall-E-stm/assets/133537967/7b319f08-21e8-4d61-886c-a4631f265e30)
 
 ### Integrantes:
 
